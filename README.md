@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <a href="https://jessgraham.dev"><img src="banner.png" alt="drawing" width="100%" /></a>
 
 ### Hi there, nice to meet you 👋
