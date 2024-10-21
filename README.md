@@ -24,6 +24,7 @@ My name is Jess Graham 🚀 and I'm a senior software engineer 🧑‍💻.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3a9573)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3a9573)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3a9573)
+![](https://img.shields.io/badge/Code-React-Native-informational?style=flat&logo=react&logoColor=white&color=3a9573)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3a9573)
 ![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=3a9573)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=3a9573)
