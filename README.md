@@ -4,12 +4,6 @@
 
 My name is Jess Graham 🚀 and I'm a senior software engineer 🧑‍💻.
 
-## 🧑‍🤝‍🧑 Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jess-graham-a6a489141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jess-graham" height="30" width="40" /></a>
-</p>
-
 ## 💻 Tech
 
 <!-- Global -->
