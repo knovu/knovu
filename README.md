@@ -8,38 +8,38 @@ My name is Jess Graham 🚀 and I'm a senior software engineer 🧑‍💻.
 
 <!-- Global -->
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=#26e1f7)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=26e1f7)
 
 <!-- Code -->
 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=dotnet&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-Apollo-informational?style=flat&logo=apollographql&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=#26e1f7)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=dotnet&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-Apollo-informational?style=flat&logo=apollographql&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=26e1f7)
 
 <!-- Tools -->
 
-![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Tools-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Tools-PNPM-informational?style=flat&logo=pnpm&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=#26e1f7)
+![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Tools-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Tools-PNPM-informational?style=flat&logo=pnpm&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=26e1f7)
 
 <!-- Infra -->
 
-![](https://img.shields.io/badge/Infra-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Infra-Envoy-informational?style=flat&logo=envoyproxy&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Infra-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=#26e1f7)
-![](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=#26e1f7)
+![](https://img.shields.io/badge/Infra-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Infra-Envoy-informational?style=flat&logo=envoyproxy&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Infra-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=26e1f7)
+![](https://img.shields.io/badge/Infra-Docker-informational?style=flat&logo=docker&logoColor=white&color=26e1f7)
 
 ## 📊 Stats
 
